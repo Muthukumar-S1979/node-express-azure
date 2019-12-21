@@ -13,7 +13,7 @@
             "defaultValue": "",
             "type": "String",
             "metadata": {
-                "description": "The name of your app service plan."
+                "description": "The sample app service plan."
             }
         }
     },
